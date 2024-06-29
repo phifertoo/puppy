@@ -13,3 +13,7 @@ func Barks() string {
 func Tag2() {
 	fmt.Println("from tag 1.0.1")
 }
+
+func Tag3() {
+	fmt.Println("from tag 1.0.2")
+}
