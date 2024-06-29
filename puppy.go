@@ -11,5 +11,5 @@ func Barks() string {
 }
 
 func Tag2() {
-	fmt.Println("from tag 2")
+	fmt.Println("from tag 1.0.1")
 }
