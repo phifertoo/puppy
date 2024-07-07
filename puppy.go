@@ -1,7 +1,9 @@
+// Package puppy is small
 package puppy
 
 import "fmt"
 
+// Bark says woof
 func Bark() string {
 	return "woof!"
 }
